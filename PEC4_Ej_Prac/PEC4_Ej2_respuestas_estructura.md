@@ -3,8 +3,8 @@
 <ins>**1.**</ins> Quina ordre has d'utilitzar per crear un nou projecte Angular utilitzant Angular CLI anomenat ecommerce?.<br>
 
 - L'ordre utilitzada per crear el projecte ecommerce ha estat:<br>
-<code>ng new ecommerce</code>
-![ng new ecommerce](https://i.imgur.com/conRUbs.png)
+<code>ng new ecommerce</code><br>
+![ng new ecommerce](https://i.imgur.com/conRUbs.png)<br>
 ![ng new ecommerce - done](https://i.imgur.com/gA0pfhj.png)
 - Com podem veure, tenim <ins>**.git**</ins> ja inicialitzat per a la carpeta global de la <ins>**PEC4**</ins>, per això el que realitzarem nosaltres, es incloure el projecte d'*Angular* en el <ins>**.gitignore**</ins> i crear un nou <ins>**.git**</ins> amb només el projecte, ja que volem tenir tots dos a Github.
 
