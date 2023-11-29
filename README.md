@@ -42,4 +42,4 @@
     - També que els botons desapareixen si no hi ha l'article a l'estoc.
     - Al mateix temps, hem aplicat la funcionalitat que <code>l'usuari no pugui "*comprar*" més quantitat de la que hi ha en stock</code>. Tot i que no ens ho demana l'anunciat, vam creure oportú fer-ho.<br><br>
 
-    - <ins>**Exercici 5**</ins> - En aquest exercici hem de contestar a certes preguntes sobre la teoria dels components. Des de saber què és *style encapsulation*, saber que és el *shadow DOM*, el *changeDetection* o saber analitzar el cicle de vida d'un component dins d'*Angular*.
+    - <ins>**Exercici 6**</ins> - En aquest exercici hem de contestar a certes preguntes sobre la teoria dels components. Des de saber què és *style encapsulation*, saber que és el *shadow DOM*, el *changeDetection* o saber analitzar el cicle de vida d'un component dins d'*Angular*.
