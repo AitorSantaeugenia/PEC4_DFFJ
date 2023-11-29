@@ -6,7 +6,9 @@
 <code>ng new ecommerce</code><br>
 ![ng new ecommerce](https://i.imgur.com/conRUbs.png)<br>
 ![ng new ecommerce - done](https://i.imgur.com/gA0pfhj.png)
-- Com podem veure, tenim <ins>**.git**</ins> ja inicialitzat per a la carpeta global de la <ins>**PEC4**</ins>, per això el que realitzarem nosaltres, es incloure el projecte d'*Angular* en el <ins>**.gitignore**</ins> i crear un nou <ins>**.git**</ins> amb només el projecte, ja que volem tenir tots dos a Github.
+- Com podem veure, tenim <ins>**.git**</ins> ja inicialitzat per a la carpeta global de la <ins>**PEC4**</ins>, per això el que realitzarem nosaltres, es incloure el projecte d'*Angular* en el <ins>**.gitignore**</ins> i crear un nou <ins>**.git**</ins> amb només el projecte, ja que volem tenir tots dos a Github.<br>
+- Cal dir però, que es millor inicialitzar d'aquesta manera per tal de tenir el app.module.ts inicialitzat:
+<code>ng new ecommerce --no-standalone</code>
 
 Podem veure els dos repos a:<br>
 https://github.com/AitorSantaeugenia/PEC4_Ecommerce<br>
