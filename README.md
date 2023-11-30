@@ -66,7 +66,7 @@
     ----            
 
     <div align="center">
-        <img width="600px" src=" https://i.imgur.com/xbmj06q.png"/>
+        <img width="600px" src="https://i.imgur.com/xbmj06q.png"/>
         <p>ChangeDetection emprat en el article.component.ts</p>
     </div
    
